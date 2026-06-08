@@ -1,2 +1,1 @@
-# python-visualized
-Python visualized
+# Python Visualized
